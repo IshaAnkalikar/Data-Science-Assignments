@@ -44,6 +44,30 @@ Data-Science-Assignments/
 
 ---
 
+ASSIGNMENTS:
+Basic Statistics_Level 1
+Basic stats - 2
+Basics of python
+Hypothesis testing
+EDA1
+MLR
+Logistic Regression
+Clustering
+PCA
+Association Rules
+Recommendation System
+EDA2
+Decision Tree
+Random Forest
+XGBM & LGBM
+KNN
+SVM
+Neural networks
+Naive Bayes and Text Miningcurrent section
+Timeseries
+
+
+
 ## 🛠️ Technologies Used
 
 - **Language:** Python 3.x  
